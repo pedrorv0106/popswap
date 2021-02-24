@@ -1,7 +1,5 @@
 # PopSwap
 
-https://popswap.fi.
-
 ## Docs
 
 [Development](docs/DEVELOPMENT.md)
